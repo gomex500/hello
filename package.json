@@ -1,0 +1,25 @@
+{
+  "name": "helloperro",
+  "version": "1.0.0",
+  "description": "un simple hola perro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomex500/helloperro.git"
+  },
+  "keywords": [
+    "helloperro"
+  ],
+  "author": "Gomex500",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomex500/helloperro/issues"
+  },
+  "homepage": "https://github.com/gomex500/helloperro#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
